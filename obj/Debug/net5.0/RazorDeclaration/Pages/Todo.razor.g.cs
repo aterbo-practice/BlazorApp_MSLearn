@@ -90,6 +90,25 @@ using BlazorApp_MSLearn.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 19 "/Users/andyterbovich/VS Code Projects/BlazorApp_MSLearn/Pages/Todo.razor"
+ 
+    private List<TodoItem> todos = new();
+    private string newTodo;
+
+
+    private void AddTodo()
+    {
+        if(!string.IsNullOrWhiteSpace(newTodo))
+        {
+            todos.Add(new TodoItem{ Title = newTodo});
+            newTodo = string.Empty;
+        }
+    }
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591

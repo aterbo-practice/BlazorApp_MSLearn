@@ -131,6 +131,39 @@
         }
       },
       {
+        "HashCode": 630432194,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp_MSLearn.Pages.Todo",
+        "AssemblyName": "BlazorApp_MSLearn",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorApp_MSLearn.Pages.Todo"
+        }
+      },
+      {
+        "HashCode": 2101188316,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp_MSLearn.Pages.Todo",
+        "AssemblyName": "BlazorApp_MSLearn",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorApp_MSLearn.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorApp_MSLearn.Pages.Todo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -43922678,
         "Kind": "Components.Component",
         "Name": "BlazorApp_MSLearn.App",
