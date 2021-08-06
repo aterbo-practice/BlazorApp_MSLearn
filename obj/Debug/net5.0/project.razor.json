@@ -78,7 +78,7 @@
         }
       },
       {
-        "HashCode": 107995106,
+        "HashCode": 107545678,
         "Kind": "Components.Component",
         "Name": "BlazorApp_MSLearn.Pages.Counter",
         "AssemblyName": "BlazorApp_MSLearn",
@@ -88,13 +88,23 @@
             "TagName": "Counter"
           }
         ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount"
+            }
+          }
+        ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorApp_MSLearn.Pages.Counter"
         }
       },
       {
-        "HashCode": 1104519260,
+        "HashCode": 210092266,
         "Kind": "Components.Component",
         "Name": "BlazorApp_MSLearn.Pages.Counter",
         "AssemblyName": "BlazorApp_MSLearn",
@@ -102,6 +112,16 @@
         "TagMatchingRules": [
           {
             "TagName": "BlazorApp_MSLearn.Pages.Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount"
+            }
           }
         ],
         "Metadata": {
