@@ -98,39 +98,6 @@
         }
       },
       {
-        "HashCode": -1723016245,
-        "Kind": "Components.Component",
-        "Name": "BlazorApp_MSLearn.Pages.Index",
-        "AssemblyName": "BlazorApp_MSLearn",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp_MSLearn.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -1301769968,
-        "Kind": "Components.Component",
-        "Name": "BlazorApp_MSLearn.Pages.Index",
-        "AssemblyName": "BlazorApp_MSLearn",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorApp_MSLearn.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp_MSLearn.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 630432194,
         "Kind": "Components.Component",
         "Name": "BlazorApp_MSLearn.Pages.Todo",
@@ -160,6 +127,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorApp_MSLearn.Pages.Todo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1723016245,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp_MSLearn.Pages.Index",
+        "AssemblyName": "BlazorApp_MSLearn",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorApp_MSLearn.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -1301769968,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp_MSLearn.Pages.Index",
+        "AssemblyName": "BlazorApp_MSLearn",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorApp_MSLearn.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorApp_MSLearn.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
