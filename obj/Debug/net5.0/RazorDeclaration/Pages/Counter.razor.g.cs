@@ -82,7 +82,7 @@ using BlazorApp_MSLearn.Shared;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/counterTEST4")]
+    [Microsoft.AspNetCore.Components.RouteAttribute("/counter")]
     public partial class Counter : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -95,9 +95,11 @@ using BlazorApp_MSLearn.Shared;
        
     private int currentCount = 0;
 
+    [Parameter]
+    public int IncrementAmount { get; set; } = 1;
     private void IncrementCount()
     {
-        currentCount++;
+        currentCount += IncrementAmount;
     }
 
 #line default
