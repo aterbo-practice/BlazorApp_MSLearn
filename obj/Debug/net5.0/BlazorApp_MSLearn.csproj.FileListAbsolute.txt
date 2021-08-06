@@ -55,3 +55,5 @@
 /Users/andyterbovich/VS Code Projects/BlazorApp_MSLearn/obj/Debug/net5.0/BlazorApp_MSLearn.csproj.CopyComplete
 /Users/andyterbovich/VS Code Projects/BlazorApp_MSLearn/obj/Debug/net5.0/RazorDeclaration/Pages/Counter.razor.g.cs
 /Users/andyterbovich/VS Code Projects/BlazorApp_MSLearn/obj/Debug/net5.0/Razor/Pages/Counter.razor.g.cs
+/Users/andyterbovich/VS Code Projects/BlazorApp_MSLearn/obj/Debug/net5.0/RazorDeclaration/Pages/Todo.razor.g.cs
+/Users/andyterbovich/VS Code Projects/BlazorApp_MSLearn/obj/Debug/net5.0/Razor/Pages/Todo.razor.g.cs
